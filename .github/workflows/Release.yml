@@ -23,5 +23,5 @@ jobs:
         username: ${{ github.actor }}
         password: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         registry: docker.pkg.github.com
-        repository: HeyCat-svg/Jupiter_backend/backend
+        repository: HeyCat-svg/jupiter_backend/backend
         tag_with_ref: true
